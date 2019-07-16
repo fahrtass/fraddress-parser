@@ -1,0 +1,37 @@
+Pattern 1:
+<Number><Street><City><Zipcode>
+3 Rue Gutenberg BARJOUVILLE 28630
+
+Pattern 2:
+<Number><Street><Zipcode><City>
+1 Rue du Bas Noyer 95610 ERAGNY SUR OISE
+
+Pattern 3:
+<AreaType><AreaName><Zipcode><City>
+Centre Commercial Belles Rives 45430 Checy
+
+Pattern 4:
+<AreaType><AreaName><Number><Street><City><Zipcode>
+Centre Commercial Géant Casino 100 rue du Puits de la Ville - CHAURAY 79180
+
+Pattern 5:
+<AreaType><AreaName><City><Zipcode>
+ZAC Houdemont centre commercial Cora - HOUDEMONT 54180
+
+Pattern 6:
+<AreaType><AreaName><Number><Street><City><Zipcode>
+5 RUE DES BONS ENFANTS 01000 BOURG EN BRESSE Tél : 04 74 23 06 85 
+CCIAL BOISSENART LOCAL 27 77240 CESSON Tél : 01 60 63 55 81 
+
+Pattern 7:
+ZAC LES TERRASSES DE LA SARRE 57400 SARREBOURG Tél : 03 87 25 65 27
+CITE EUROPE BP 77 62231 COQUELLES Tél : 03 21 85 57 88
+
+Pattern 8:
+CCIAL MAISON NEUVE AUCHAN LOCAL 75 91220 BRETIGNY SUR ORGE Tél : 01 60 85 37 03
+Cial MoDo 95570 MOISSELLES Tél : 01 39 94 62 05
+90 GRANDE RUE 89100 SENS Tél : 03 86 65 24 14 
+
+Pattern 9:
+CCIAL BELLE EPINE BP 287 94531 THIAIS Tél : 01 41 80 01 78 
+RD 57 BP 32 Marseille 13000
