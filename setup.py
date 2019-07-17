@@ -7,15 +7,15 @@ except ImportError :
     raise ImportError("setuptools module required, please go to https://pypi.python.org/pypi/setuptools and follow the instructions for installing setuptools")
 
 setup(
-    version='0.0.1',
+    name="fraddress",
+    version='0.0.3',
     author='Mathieu FRANCK',
-    url='',
     description='A parser to help with recognizing and normalizing unstructured FR addresses',
     long_description=readme,
-    name="fraddress-parser",
+    license='The MIT License: http://www.opensource.org/licenses/mit-license.php',
     url='https://github.com/fahrtass/fraddress-parser',
     packages=find_packages(),
-    license='The MIT License: http://www.opensource.org/licenses/mit-license.php',
+    include_package_data=True,
     install_requires=requirements,
     classifiers=[
         'Development Status :: 3 - Alpha',
