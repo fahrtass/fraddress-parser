@@ -2,5 +2,5 @@ pip==19.1.1
 wheel==0.33.1
 parserator==0.6.8
 python-crfsuite==0.9.6
-lxml==4.3.4
+lxml==4.6.3
 twine==1.13.0
