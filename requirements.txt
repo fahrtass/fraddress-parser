@@ -1,4 +1,4 @@
-pip==19.1.1
+pip==19.2
 wheel==0.33.1
 parserator==0.6.8
 python-crfsuite==0.9.6
